@@ -29,10 +29,5 @@
 ![image](https://user-images.githubusercontent.com/57559093/146316519-0a37b27d-4f3c-49a4-8969-2d26e6c2ceb7.png)
 
 
-# 业务流程
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/da38e47e34af4569b918a36014fa66b8.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5Zyo5a2m5Lmg6Lev5LiK55qE5bCP576k,size_20,color_FFFFFF,t_70,g_se,x_16#pic_center)
-
-
 
 
